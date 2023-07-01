@@ -20,13 +20,34 @@ public class homework1 {
         System.out.println("\nВычислить n-ое треугольное число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)");
         System.out.println("\nВведите число n:");
 
-        int n = Integer.parseInt(scan.nextLine());
+        int n = getInt();
         int sum = sum(n);
         long factorial = factorial(n);
 
         System.out.printf("\nn-ое треугольное число равно: %d, n!: равно %d\n", sum, factorial);
         System.out.println();
 
+    }
+
+    /** метод для получения числа int для первого задания
+     * @return
+     */
+    public static int getInt(){
+        int result = 0;
+        boolean flag = true;
+        while(flag){
+            try {
+                result = Integer.parseInt(scan.nextLine());
+                if(result <= 0){
+                    System.out.println("\nПо условиям задачи, число должно быть от 1, ещё раз:");
+                    continue;
+                }
+                return result;
+            } catch (Exception e) {
+                System.out.println("\nНеверный формат ввода, ещё раз:");
+            }
+        }
+        return result;
     }
 
     /**
@@ -81,17 +102,35 @@ public class homework1 {
     }
 
     /**
+     * метод для ввода числа для калькулятора
+     * @return число типа double
+     */
+    public static double getDouble(){
+        double result = 0;
+        boolean flag = true;
+        while(flag){
+            try {
+                result = Double.parseDouble(scan.nextLine());
+                return result;
+            } catch (Exception e) {
+                System.out.println("\nНеверный формат ввода, ещё раз:");
+            }
+        }
+        return result;
+    }
+
+    /**
      * метод для выполнения задания №3
      */
     public static void task3(){
 
-        System.out.println("\nРеализовать простой калькулятор\n");
+        System.out.println("\nРеализовать простой калькулятор");
 
-        System.out.println("Введите первое число:");
-        double firstNumber = scan.nextDouble();
-        
+        System.out.println("\nВведите первое число:");
+        double firstNumber = getDouble();
+
         System.out.println("\nВведите второе число:");
-        double secondNumber = scan.nextDouble();
+        double secondNumber = getDouble();
         
         System.out.println("\nВведите действие (+, -, *, /):");
         boolean f3 = true;
@@ -134,6 +173,7 @@ public class homework1 {
                     break;    
                 
                 default:
+                    System.out.println("Такой операции нет, ещё раз:");
                     break;
             }
             
@@ -145,8 +185,19 @@ public class homework1 {
      * метод для выполнения задания №4
      */
     public static void task4(){
-        System.out.println("\nПока что не успел сделать...");
-        System.out.println();
+        System.out.println("\nЗадано уравнение вида q + w = e, q, w, e >= 0. Некоторые цифры могут\n" +
+                            "быть заменены знаком вопроса, например 2? + ?5 = 69. Требуется восстановить\n" +
+                            "выражение до верного равенства. Предложить решение или сообщить, что его нет.\n");
+        int count = 0;
+        for (int index = 0; index < 10; index++) {
+            if(20 + index + index*10 + 5 == 69){
+                System.out.println("Ответ: ? = " + index);
+                count++;
+            }           
+        }
+        if (count == 0) {
+                System.out.println("Такого решения нет!\n");
+            }                             
     }
 
     /**
@@ -190,36 +241,36 @@ public class homework1 {
             System.out.println("3 - Задача 3");
             System.out.println("4 - Задача 4");
             System.out.println("0 - Завершение работы приложения");
-            int number = Integer.parseInt(scan.nextLine());
+            String number = scan.nextLine();
 
             switch(number){
-                case 1:
+                case "1":
                     task1();
                     f = askForCheck();
                     break;
 
-                case 2:
+                case "2":
                     task2();
                     f = askForCheck();
                     break;
 
-                case 3:
+                case "3":
                     task3();
                     f = askForCheck();    
                     break;
                 
-                case 4:
+                case "4":
                     task4();
                     f = askForCheck();    
                     break;
 
-                case 0:
+                case "0":
                     System.out.println("Завершение работы приложения...");
                     f = false;
                     break;
                 
                 default:
-                    System.out.println("Вы указали некорректный номер задачи!\nПовторите попытку ввода.");
+                    System.out.println("\nВы указали некорректный номер задачи!\nПовторите попытку ввода.");
                 break;
 
             }
