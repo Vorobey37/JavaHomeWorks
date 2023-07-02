@@ -1,0 +1,318 @@
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Начало логирования:
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Создаем массив случайного размера из случайных чисел:
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: [6, -17, -17, 6, -16, -20, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Приступаем к сортировке:
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 1: [-17, 6, -17, 6, -16, -20, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 2: [-17, 6, -17, 6, -16, -20, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 3: [-17, 6, -17, 6, -16, -20, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 4: [-17, 6, -17, 6, -16, -20, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 5: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 6: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 7: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 8: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 9: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 10: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 11: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 12: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 13: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 14: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 15: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 16: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 17: [-20, 6, -17, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 18: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 19: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 20: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 21: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 22: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 23: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 24: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 25: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 26: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 27: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 28: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 29: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 30: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 31: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 32: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 33: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 34: [-20, -17, 6, 6, -16, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 35: [-20, -17, -16, 6, 6, -17, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 36: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 37: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 38: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 39: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 40: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 41: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 42: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 43: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 44: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 45: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 46: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 47: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 48: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 49: [-20, -17, -17, 6, 6, -16, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 50: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 51: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 52: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 53: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 54: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 55: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 56: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 57: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 58: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 59: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 60: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 61: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 62: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 63: [-20, -17, -17, -16, 6, 6, -5, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 64: [-20, -17, -17, -16, -5, 6, 6, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 65: [-20, -17, -17, -16, -5, 6, 6, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 66: [-20, -17, -17, -16, -5, 6, 6, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 67: [-20, -17, -17, -16, -5, 6, 6, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 68: [-20, -17, -17, -16, -5, 6, 6, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 69: [-20, -17, -17, -16, -5, 6, 6, 8, -4, 8, 5, -3, -9, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 70: [-20, -17, -17, -16, -9, 6, 6, 8, -4, 8, 5, -3, -5, -14, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 71: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 72: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 73: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 74: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 75: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 76: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 77: [-20, -17, -17, -16, -14, 6, 6, 8, -4, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 78: [-20, -17, -17, -16, -14, -4, 6, 8, 6, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 79: [-20, -17, -17, -16, -14, -4, 6, 8, 6, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 80: [-20, -17, -17, -16, -14, -4, 6, 8, 6, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 81: [-20, -17, -17, -16, -14, -4, 6, 8, 6, 8, 5, -3, -5, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 82: [-20, -17, -17, -16, -14, -5, 6, 8, 6, 8, 5, -3, -4, -9, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 83: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 84: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 85: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 86: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 87: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 88: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 89: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 90: [-20, -17, -17, -16, -14, -9, 6, 8, 6, 8, 5, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 91: [-20, -17, -17, -16, -14, -9, 5, 8, 6, 8, 6, -3, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 92: [-20, -17, -17, -16, -14, -9, -3, 8, 6, 8, 6, 5, -4, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 93: [-20, -17, -17, -16, -14, -9, -4, 8, 6, 8, 6, 5, -3, -5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 94: [-20, -17, -17, -16, -14, -9, -5, 8, 6, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 95: [-20, -17, -17, -16, -14, -9, -5, 8, 6, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 96: [-20, -17, -17, -16, -14, -9, -5, 8, 6, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 97: [-20, -17, -17, -16, -14, -9, -5, 8, 6, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 98: [-20, -17, -17, -16, -14, -9, -5, 8, 6, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 99: [-20, -17, -17, -16, -14, -9, -5, 6, 8, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 100: [-20, -17, -17, -16, -14, -9, -5, 6, 8, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 101: [-20, -17, -17, -16, -14, -9, -5, 6, 8, 8, 6, 5, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 102: [-20, -17, -17, -16, -14, -9, -5, 5, 8, 8, 6, 6, -3, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 103: [-20, -17, -17, -16, -14, -9, -5, -3, 8, 8, 6, 6, 5, -4, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 104: [-20, -17, -17, -16, -14, -9, -5, -4, 8, 8, 6, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 105: [-20, -17, -17, -16, -14, -9, -5, -4, 8, 8, 6, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 106: [-20, -17, -17, -16, -14, -9, -5, -4, 8, 8, 6, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 107: [-20, -17, -17, -16, -14, -9, -5, -4, 8, 8, 6, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 108: [-20, -17, -17, -16, -14, -9, -5, -4, 8, 8, 6, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 109: [-20, -17, -17, -16, -14, -9, -5, -4, 8, 8, 6, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 110: [-20, -17, -17, -16, -14, -9, -5, -4, 6, 8, 8, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 111: [-20, -17, -17, -16, -14, -9, -5, -4, 6, 8, 8, 6, 5, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 112: [-20, -17, -17, -16, -14, -9, -5, -4, 5, 8, 8, 6, 6, -3, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 113: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 8, 8, 6, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 114: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 8, 8, 6, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 115: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 8, 8, 6, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 116: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 8, 8, 6, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 117: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 8, 8, 6, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 118: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 8, 8, 6, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 119: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 6, 8, 8, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 120: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 6, 8, 8, 6, 5, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 121: [-20, -17, -17, -16, -14, -9, -5, -4, -3, 5, 8, 8, 6, 6, -1, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 122: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 8, 8, 6, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 123: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 8, 8, 6, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 124: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 8, 8, 6, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 125: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 8, 8, 6, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 126: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 8, 8, 6, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 127: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 6, 8, 8, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 128: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 6, 8, 8, 6, 5, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 129: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 5, 8, 8, 6, 6, 0, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 130: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 8, 8, 6, 6, 5, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 131: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 8, 8, 6, 6, 5, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 132: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 8, 8, 6, 6, 5, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 133: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 8, 8, 6, 6, 5, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 134: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 6, 8, 8, 6, 5, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 135: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 6, 8, 8, 6, 5, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 136: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 8, 8, 6, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 137: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 8, 8, 6, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 138: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 8, 8, 6, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 139: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 8, 8, 6, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 140: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 8, 8, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 141: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 8, 8, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 142: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 8, 8, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 143: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 8, 8, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 144: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 8, 8, 6, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 145: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 8, 8, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 146: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 8, 8, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 147: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 8, 8, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 148: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 8, 8, 7, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 149: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 7, 8, 8, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 150: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 7, 8, 8, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 151: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 7, 8, 8, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 152: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 7, 8, 8, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Действие 153: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 7, 8, 8, 20]
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+WARNING: Сортировка окончена!!!
+июл. 02, 2023 1:08:07 PM ru.geekbrains.api.homework2.homework2 task2
+INFO: Отсортированный массив: [-20, -17, -17, -16, -14, -9, -5, -4, -3, -1, 0, 5, 6, 6, 7, 8, 8, 20]

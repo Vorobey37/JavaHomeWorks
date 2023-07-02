@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.logging.FileHandler;
+import java.util.logging.Handler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
@@ -80,8 +81,10 @@ public class homework2 {
         }
         sortLogger.log(Level.WARNING, "Сортировка окончена!!!");
         sortLogger.log(Level.INFO, "Отсортированный массив: " + Arrays.toString(array));
-        System.out.println();  
-        sortLogger.getHandlers()[0].close();        
+        System.out.println();
+        
+        closeHandlers(sortLogger);
+                
     }
 
     /**
@@ -95,12 +98,12 @@ public class homework2 {
 
         System.out.println("\nВведите первое число:");
         double firstNumber = getDouble();
-        calcLogger.log(Level.INFO, "Пользователь ввел первое число");
+        calcLogger.log(Level.INFO, "Пользователь ввел первое число: " + firstNumber);
 
 
         System.out.println("\nВведите второе число:");
         double secondNumber = getDouble();
-        calcLogger.log(Level.INFO, "Пользователь ввел второе число");
+        calcLogger.log(Level.INFO, "Пользователь ввел второе число: " + secondNumber);
         
         System.out.println("\nВведите действие (+, -, *, /):");
         boolean f3 = true;
@@ -158,9 +161,23 @@ public class homework2 {
             
         }
         System.out.println();
-        
-        calcLogger.getHandlers()[0].close();
 
+        closeHandlers(calcLogger);
+
+    }
+
+    /**
+     * Метод закрывает хэндлеры.
+     * Нужен, чтобы при выполнении других заданий файлы не дополнялись,
+     * например: произошло логированние второго задания, 
+     * началась проверка четвертого и логирование.
+     * Чтобы в файл второго задания не логировалось четвертое задание.
+     * @param logger
+     */
+    public static void closeHandlers(Logger logger){
+        for (Handler element : logger.getHandlers()) {
+            element.close();
+        }
     }
 
     /**
