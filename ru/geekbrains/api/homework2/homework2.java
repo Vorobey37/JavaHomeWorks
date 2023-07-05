@@ -41,7 +41,7 @@ public class homework2 {
         for (int i = 0; i < resultText.length; i++) {
             String []partOfResultText = resultText[i].split(":");
 
-            if (partOfResultText[1].equals("null")) { //почему-то эта часть кода не работает(не может сравнить с null)
+            if (partOfResultText[1].equals(null)) {
                 continue;
             }
             text.append(partOfResultText[0]).append(" ").append("=").append(" ")
@@ -85,6 +85,49 @@ public class homework2 {
         
         closeHandlers(sortLogger);
                 
+    }
+
+    /**
+     *  Дана json-строка (можно сохранить в файл и читать из файла)
+        [{"фамилия":"Иванов","оценка":"5","предмет":"Математика"},{"фамилия":"Петрова","оценка":"4","предмет":"Информатика"},{"фамилия":"Краснов","оценка":"5","предмет":"Физика"}]
+        Написать метод(ы), который распарсит json и, используя StringBuilder, создаст строки вида: Студент [фамилия] получил [оценка] по предмету [предмет].
+        Пример вывода:
+        Студент Иванов получил 5 по предмету Математика.
+        Студент Петрова получил 4 по предмету Информатика.
+        Студент Краснов получил 5 по предмету Физика.
+     */
+    public static void task3(){
+
+        String text = "[{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"},{\"фамилия\":\"Петрова\",\"оценка\":\"4\",\"предмет\":\"Информатика\"},{\"фамилия\":\"Краснов\",\"оценка\":\"5\",\"предмет\":\"Физика\"}]";
+        
+        StringBuilder sb = new StringBuilder();
+        String ELEMENT1 = "Студент ";
+        String ELEMENT2 = " получил ";
+        String ELEMENT3 = " по предмету ";
+
+        String newJSON = text
+                .replaceAll("\\{", "")
+                .replaceAll("\\}", "")
+                .replace("\"", "")
+                .replace("[", " ")
+                .replace("]", " ");
+        System.out.println();
+        String[] parts = newJSON.split(",");
+        for (String part : parts) {
+            String[] params = part.split(":");
+            //trim() удаляет пробелы в начале и в конце строки.
+            if ("фамилия".equals(params[0].trim())) {
+                sb = new StringBuilder(ELEMENT1)
+                        .append(params[1]);
+            } else if ("оценка".equals(params[0].trim()))
+                sb.append(ELEMENT2)
+                        .append(params[1]);
+            else if ("предмет".equals(params[0].trim())) {
+                sb.append(ELEMENT3).append(params[1]);
+                System.out.println(sb);
+            }
+        }
+        System.out.println();
     }
 
     /**
@@ -289,8 +332,7 @@ public class homework2 {
                     break;
 
                 case "3":
-                    System.out.println("\nК сожалению, не успел пока сделать...\n");
-                    //task3();
+                    task3();
                     f = askForCheck();    
                     break;
                 
